@@ -2,6 +2,11 @@
 
 A lightweight deep learning approach for road segmentation in remote sensing imagery using ERFNet architecture with NAIP and LiDAR data fusion.
 
+<div style="display: flex; justify-content: space-between;">
+  <img src="Screenshot 2025-04-28 at 10.16.57 AM.png" alt="Relative Risk" style="width: 48%;">
+  <img src="Screenshot 2025-04-28 at 10.29.50 AM.png" alt="Relative Risk" style="width: 48%;">
+</div>
+
 ## Overview
 
 This project explores the effectiveness of ERFNet (Efficient Residual Factorized ConvNet) for semantic road segmentation in scenarios with limited training data. The study compares performance between standard 4-channel NAIP imagery and enhanced 6-channel datasets that incorporate LiDAR-derived features.
