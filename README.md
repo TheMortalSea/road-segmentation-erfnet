@@ -3,8 +3,7 @@
 A lightweight deep learning approach for road segmentation in remote sensing imagery using ERFNet architecture with NAIP and LiDAR data fusion.
 
 <div style="display: flex; justify-content: space-between;">
-  <img src="Screenshot 2025-04-28 at 10.16.57 AM.png" alt="Relative Risk" style="width: 48%;">
-  <img src="Screenshot 2025-04-28 at 10.29.50 AM.png" alt="Relative Risk" style="width: 48%;">
+  <img src="visualcomp.png" alt="Relative Risk" style="width: 90%;">
 </div>
 
 ## Overview
